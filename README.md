@@ -1,2 +1,5 @@
 # 5300-Instructor
 Instructor's DB Relation Manager project for CPSC5300/4300 at Seattle U, Spring 2021
+
+## Tags
+- <code>Milestone1</code> is playing around with the AST returned by the HyLine parser and general setup of the command loop.
